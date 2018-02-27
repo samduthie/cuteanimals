@@ -14,15 +14,25 @@ html {
  * A better looking default horizontal rule
  */
 
-hr {
+h1 {
     display: block;
     height: 1px;
     border: 0;
     border-top: 1px solid #ccc;
     margin: 1em 0;
-    padding: 0;
-}
+    padding: 50;
+    font-family: fantasy, bold;
+    color: #c8a2c8;
+    text-align: center;
 
+}
+p {
+  font-family: cursive;
+  height: 2px;
+  color: #3ea7b1;
+  border: dotted;
+  text-align: center;
+}
 /*
  * Remove the gap between audio, canvas, iframes,
  * images, videos and the bottom of their containers:
