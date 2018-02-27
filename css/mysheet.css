@@ -4,6 +4,11 @@ html {
     line-height: 1.4;
 }
 
+body {
+   background-image: url("https://openclipart.org/download/252713/Shadow-Tribal-Wolf-No-Background.svg");
+   background-color: lightblue;
+}
+
 
 ::selection {
     background: #b3d4fc;
